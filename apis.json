@@ -1,0 +1,84 @@
+{
+    "name": "Crosscheck Networks",
+    "description": "Web services testing",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/crosscheck-networks.png",
+    "tags": [
+        "api service provider",
+        "gateways",
+        "have api",
+        "security",
+        "testing",
+        "virtualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/crosscheck-networks\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Crosscheck Networks",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/crosscheck-networks.png",
+            "humanURL": "http:\/\/www.crosschecknet.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/crosscheck-networks-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/crosscheck-networks-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/soa-testing.blogspot.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/soatesting?format=xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/crosscheck-networks"
+        },
+        {
+            "type": "Email",
+            "url": "info@crosschecknet.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@crosschecknet.com"
+        },
+        {
+            "type": "Email",
+            "url": "info-apac@crosschecknet.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales-apac@crosschecknet.com"
+        },
+        {
+            "type": "Email",
+            "url": "info-china@crosschecknet.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales-china@crosschecknet.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/crosschecknet"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.crosschecknet.com\/"
+        }
+    ]
+}
